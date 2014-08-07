@@ -1,4 +1,4 @@
-# Code theme for Alfred
+# Code theme for [Alfred](http://www.alfredapp.com/)
 
 ![](screenshot.png)
 
